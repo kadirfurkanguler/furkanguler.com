@@ -1,0 +1,42 @@
+/* General  Setyling*/
+.kadir{font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif; letter-spacing: 15px; opacity: 1;} 
+.merhaba{color:#fff; font-weight:bold; letter-spacing: 5px; font-family: 'Montserrat', sans-serif; }
+.pt-6{padding-top: 5em;}
+p{font:18px arial }
+h2{font-size: 32px; font-weight: 400; color: #1886C7;}
+/* Home Section*/ 
+.navbar { border-bottom:#1886C7 3px solid;}
+.navbar-brand{color: #1886C7 !important; font-size: 24px; }
+.bg-dark{background-color: rgba(0,0,0 ,7)!important;}
+.nav-link{color: white!important; text-transform: uppercase;transition: .5s; }
+.nav-link:hover{color: #1886C7!important; }
+#header{background:url(../images/bg.jpg) no-repeat center center fixed ;background-size: cover; height: 100vh;}
+#header .overlay{background: rgba(0,0, 0, 0);}
+#header .row{height: 100vh ;}
+#header span{ color: #1886C7 !important;}
+.btn-outline-primary{padding-left: 30px; padding-right: 30px; border-radius: 0; cursor: pointer; }
+/* history Section*/ 
+#aboutme{padding: 0 0 10em 0 ;}
+#aboutme h2{border-left: 6px solid #1886c7; padding-left: 30px ;}
+#aboutme .col.-md-6{ display: inline;}
+#aboutme p{ line-height: 30px; padding-right: 50px;} 
+/* Card*/
+#cards{background: url(../images/x.jpg) center center fixed; background-size: cover; }
+#cards .card{border: none;  cursor: pointer; transition: all 0.5s ease;} 
+/*Contact*/
+#contact{  padding-top: 50px; padding-bottom: 50px; background-color: black;}
+#contact .fa{color: #1886C7;}
+/*footer*/
+#features{background: url(../images/x.jpg) center center fixed; background-size: cover; }
+#main-footer{color: #1886C7; background-color: black; padding-top: 5px; } 
+#crd a:hover{ text-decoration: none;}
+#sp a{color:white !important;}
+#tw a{color:white !important;}
+#portfolio{padding-bottom: 20em; padding-top: 10em;background: url(../images/x.jpg) center center fixed; background-size: cover;   }
+#wp a{color:white!important ; text-decoration: none;}
+.imgme{width: 20em; height:20em ; border-radius: 10em; margin-bottom: 1em;}
+.crdyz{color: wheat!important;}
+#education{background: url(../images/y.jpg) center center fixed; background-size: cover;   }
+#aboutme{background: url(../images/y.jpg) center center fixed; background-size: cover; }
